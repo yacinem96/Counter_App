@@ -1,4 +1,13 @@
 body {
   font-family: sans-serif;
-  background-color: hsl(210, 36%, 96%);
+  background-color: #f1f5f8
+}
+
+#value {
+  font-size: 6rem;
+  font-weight: 700;
+}
+ 
+h1{
+  font-weight: 500!important;
 }
